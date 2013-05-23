@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-Tththththththththhis is a new file
-This is what I changed in local file
-This is 3
-=======
+
 Tththththththththththththththhis is a new file
 This is what I changed in local file
 This what you reis 3
->>>>>>> master
+
 agall
 a
